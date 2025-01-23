@@ -1,1 +1,1 @@
-print("chavales xd")
+print("weno")
